@@ -19,11 +19,6 @@ I'm interested in innovation, creativity, technology for social good, and politi
 * Data-intensive web-application design
 * Data science libraries in Python
 
-### 🖊️  Other fun stuff 
-
-* I'm usually in the 🇬🇧 London area, but I travel a bit
-* I'm also a qualified journalist, and experienced writer
-
 ### 🤓  I've also got a little personal site: https://thomaskr.online/
 (It's a custom-built using [Miniterm][], my open-source, in-browser Bash terminal emulator. You can check it out by using the 'ls' command to list the commands it comes with!)
 
