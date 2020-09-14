@@ -9,15 +9,9 @@ learning projects that I've undertaken that I've taken.
 ### Back-end
 
 * [Django settings config for Production](https://thinkster.io/tutorials/configuring-django-settings-for-production)
-* [Docker Compose with Django, Postgres, Nginx & Multiple Databases](https://pawamoy.github.io/posts/docker-compose-django-postgres-nginx/#overview-to-get-a-better-understanding-of-the-whole-thing)
-* [Dockerizing Django with Postgres, Gunicorn & Nginx](https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/)
-* [Docker for Python Developers](https://mherman.org/presentations/dockercon-2018/#1)
-* [Production-ready Dockerfile for Python](https://www.caktusgroup.com/blog/2017/03/14/production-ready-dockerfile-your-python-django-app/)
-* [Docker on the Command Line - Useful tools](https://www.revsys.com/tidbits/docker-useful-command-line-stuff/)
 * [Django DRF with React](https://www.valentinog.com/blog/drf/)
 * [SEO for Django](https://dev.to/druidmaciek/seo-for-django-5-methods-to-improve-seo-625)
 * [Managing Local & Prod Settings using Django](https://stackoverflow.com/questions/1626326/how-to-manage-local-vs-production-settings-in-django)
-* [Provisioning Nginx on Ubuntu 20+, Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04)
 * [Python pre-commits using Black and Flake8](https://ljvmiranda921.github.io/notebook/2018/06/21/precommits-using-black-and-flake8/)
 * [Abusing the Django Admin for Fun and Profit](https://dev.to/kenwhitesell/abusing-the-django-admin-app-36hh)
 * [Investigating speed issues in Web Applications](https://www.valentinog.com/blog/slow/)
@@ -25,6 +19,16 @@ learning projects that I've undertaken that I've taken.
 * [REST vs GraphQL](https://dev.to/duomly/rest-api-vs-graphql-comparison-3j6g)
 * [REST API Design Best Practices](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)
 * [Shell Script Crash Course](https://dev.to/godcrampy/the-missing-shell-scripting-crash-course-37mk)
+
+### Devops
+
+* [Terraform for Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-use-terraform-with-digitalocean)
+* [Provisioning Nginx on Ubuntu 20+, Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04)
+* [Docker Compose with Django, Postgres, Nginx & Multiple Databases](https://pawamoy.github.io/posts/docker-compose-django-postgres-nginx/#overview-to-get-a-better-understanding-of-the-whole-thing)
+* [Dockerizing Django with Postgres, Gunicorn & Nginx](https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/)
+* [Docker for Python Developers](https://mherman.org/presentations/dockercon-2018/#1)
+* [Production-ready Dockerfile for Python](https://www.caktusgroup.com/blog/2017/03/14/production-ready-dockerfile-your-python-django-app/)
+* [Docker on the Command Line - Useful tools](https://www.revsys.com/tidbits/docker-useful-command-line-stuff/)
 
 ### Front-end
 
