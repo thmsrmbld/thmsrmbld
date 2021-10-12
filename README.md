@@ -12,16 +12,6 @@ I'm interested in innovation, creativity, technology for social good, and politi
 * [Docker][], [Docker Compose][]
 * [Git][], Github & Gitlab
 
-### 🌱 Things I'm currently learning more about:
-
-* Anything to do with Python
-* Docker, Compose and container orchestration for Devops-style work
-* Data-intensive web-application design
-* Data science libraries in Python
-
-### 🤓  I've also got a little personal site: https://thomaskr.online/
-(It's custom-built using [Miniterm][], my open-source, in-browser Bash terminal emulator. You can check it out by using the 'ls' command to list the commands it comes with, and even fork your own version if you want to!)
-
 [Miniterm]: https://github.com/thmsrmbld/miniterm/
 [Git]:https://git-scm.com/
 [Docker]: https://www.docker.com/
