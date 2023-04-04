@@ -1,8 +1,6 @@
 ## 🖥️ Hiya, I'm Thomas! 🎉
 
-I'm a technologist, Python developer, writer and citizen based in London. For the last 10 years, I've worked agency-side in leadership roles with some of the largest science, finance and private innovation companies in Europe. As well as being a hands-on developer, I'm also an experienced digital operations lead and technical product owner, and have led distributed teams of ~20 across multiple disciplines, countries and timezones.
-
-I'm interested in innovation, creativity, technology for social good, and political theory!
+I'm a technologist, Python developer, writer and citizen based in London. For the last 10 years, I've worked agency-side in leadership roles with some of the largest science, finance and private innovation companies in Europe. Now I work as an Engineering Lead for a London-based technologu business where we write Python, Django, TypeScript and more.
 
 ### 💻  You'll mostly find me working with...
 
