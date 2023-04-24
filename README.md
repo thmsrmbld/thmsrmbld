@@ -1,6 +1,6 @@
 ## 🖥️ Hiya, I'm Thomas! 🎉
 
-I'm a technologist, Python developer, writer and citizen based in London. For the last 10 years, I've worked agency-side in leadership roles with some of the largest science, finance and private innovation companies in Europe. Now I work as an Engineering Lead for a London-based technologu business where we write Python, Django, TypeScript and more.
+I'm a technologist, Python developer, writer and citizen based in London. For the last 10 years, I've worked agency-side in leadership roles with some of the largest science, finance and private innovation companies in Europe. Now I work as an Engineering Lead for a London-based technology business where we write Python, Django, TypeScript and more.
 
 ### 💻  You'll mostly find me working with...
 
