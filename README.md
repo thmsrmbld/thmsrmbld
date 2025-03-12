@@ -6,9 +6,7 @@ I'm a technologist, Python developer, writer and citizen based in London. For th
 
 * [Python][], [Django][] & [Django Rest Framework][]
 * HTML5, CSS & JavaScript, with some [ReactJS][]
-* AWS, Digital Ocean and [Terraform][] for deployments
-* [Docker][], [Docker Compose][]
-* [Git][], Github & Gitlab
+* AWS, Digital Ocean and [Terraform][], [Docker][]
 
 [Miniterm]: https://github.com/thmsrmbld/miniterm/
 [Git]:https://git-scm.com/
@@ -17,5 +15,4 @@ I'm a technologist, Python developer, writer and citizen based in London. For th
 [Django REST Framework]: https://www.django-rest-framework.org/
 [Python]: https://www.python.org/
 [ReactJS]: https://reactjs.org/
-[Docker Compose]: https://docs.docker.com/compose/
 [Terraform]: https://www.terraform.io/
